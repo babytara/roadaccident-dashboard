@@ -14,7 +14,7 @@ Data Source: https://github.com/witrioktafiani/Road-Accident-AnalystExcel
 
 ### Example of Pivot Table 
 
-![Pivot Table Example](Pivot Table.png)
+![Pivot Table Example](PivotTable.png)
 
 ### Dashboard
 
