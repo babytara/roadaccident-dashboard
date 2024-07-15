@@ -12,11 +12,11 @@ Data Source: https://github.com/witrioktafiani/Road-Accident-AnalystExcel
 
 [Excel Workbook](https://docs.google.com/spreadsheets/d/17LXwpI1XN-YQbXA8mNcf6v-lUGgYsoO1/edit?usp=drive_link&ouid=104849268117202364440&rtpof=true&sd=true)
 
-### Example of Pivot Table 
+## Example of Pivot Table 
 
 ![Pivot Table Example](PivotTable.png)
 
-### Dashboard
+## Dashboard
 
 ![Dashboard](Dashboard.png)
 
